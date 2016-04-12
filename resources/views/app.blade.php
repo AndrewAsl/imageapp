@@ -62,7 +62,7 @@
 
             function ConfirmDelete()
             {
-                var x = confirm("Are you sure you want to delete?");
+                var x = confirm("Вы уверены, что хотите удалить файл?");
                 if (x)
                     return true;
                 else
