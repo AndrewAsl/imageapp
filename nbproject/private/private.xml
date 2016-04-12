@@ -4,14 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/app/Http/routes.php</file>
-            <file>file:/D:/openserver524/OpenServer/domains/imageapp/app/Http/Requests/CreateImageRequest.php</file>
-            <file>file:/D:/openserver524/OpenServer/domains/imageapp/storage/logs/laravel.log</file>
+            <file>file:/D:/openserver524/OpenServer/domains/imageapp/app/Http/Requests/EditImageRequest.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/app/Anyimage.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/config/app.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/resources/views/edit.blade.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/app/Http/Controllers/AnyImagesController.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/resources/views/create.blade.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/resources/views/index.blade.php</file>
+            <file>file:/D:/openserver524/OpenServer/domains/imageapp/resources/views/app.blade.php</file>
             <file>file:/D:/openserver524/OpenServer/domains/imageapp/resources/views/show.blade.php</file>
         </group>
     </open-files>

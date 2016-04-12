@@ -26,8 +26,8 @@ class EditImageRequest extends Request
         return [
            'is_active' => 'boolean',
            'is_featured' => 'boolean',
-           'image' => 'required | mimes:jpeg,jpg,bmp,png | max:1000',
-           'mobile_image' => 'required | mimes:jpeg,jpg,bmp,png | max:1000'
+           'image' => 'mimes:jpeg,jpg,bmp,png | max:1000',
+           'mobile_image' => 'mimes:jpeg,jpg,bmp,png | max:1000'
         ];
     }
 }
